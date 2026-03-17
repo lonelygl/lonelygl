@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About me: 
 
-- 📑 Product designer
+- 📑 Product analytic
 - 🎓 Higher School of Economics Student
 - 📧 aipominova@edu.hse.ru
 
