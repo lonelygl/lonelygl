@@ -1,4 +1,4 @@
-<img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/c0b53633-b46d-4c47-b8a0-17033cfa8306" />## Hi there 👋
+## Hi there 👋
 
 <!--
 **lonelygl/lonelygl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
